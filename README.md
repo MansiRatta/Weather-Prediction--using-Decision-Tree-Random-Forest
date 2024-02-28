@@ -1,10 +1,10 @@
 # Weather-Prediction--using-Decision-Tree-Random-Forest
 
-Weather Prediction- Decision Tree & Random Forest 
+-Weather Prediction- Decision Tree & Random Forest 
 
 This repository contains the code for a prediction of weather using Decision Tree and Random Forest algorithm.The dataset includes information about features that affect rainfall like humidity, temperature, wind speed, pressure. The goal of this project is to predict if it’ll rain or not using the Decision Tree & Random Forest Algorithm.
 
-Dependencies
+-Dependencies
 
 Python 3.x
 Jupyter Notebook
@@ -13,7 +13,7 @@ NumPy
 scikit-learn
 matplotlib
 
-Dataset
+-Dataset
 
 The dataset (weatherAUS.csv) contains the following columns:
 MinTemp
@@ -31,7 +31,7 @@ Temp9am
 RainToday
 RainTomorrow
 
-Description
+-Description
 
 In this project, we have started by reading the variables to understand them better. 
 
@@ -50,11 +50,11 @@ It is useful for inspecting the structure of a decision tree model in a simple, 
 Post this, we have also created a Random Forest classifier and used it to perform the same prediction.
 
 
-License
+-License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
+-Acknowledgments
 
 This analysis is based on the weather data (Australia).
 
